@@ -1,0 +1,17 @@
+
+ ____  ____      ____       _____
+|    ||    |    |    | ___|\     \
+|    ||    |    |    ||    |\     \
+|    ||    |    |    ||    | |     |
+|    ||    |    |    ||    | /_ _ /
+|    ||    |    |    ||    |\    \
+|    ||\    \  /    /||    | |    |
+|____|| \ ___\/___ / ||____|/____/|
+|    | \ |   ||   | / |    /     ||
+|____|  \|___||___|/  |____|_____|/
+  \(      \(    )/      \(    )/
+   '       '    '        '    '
+
+  ${AnsiColor.BLUE}:: ICloud Versioned Backup :: ${application.title} ${AnsiColor.DEFAULT} ${application.formatted-version}
+
+  ${AnsiColor.GREEN}:: Spring Boot :: ${AnsiColor.DEFAULT} ${spring-boot.formatted-version}
